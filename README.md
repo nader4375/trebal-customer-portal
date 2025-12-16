@@ -1,4 +1,5 @@
-Trebal Platform
-
-This repository is intentionally empty.
-It will be connected to services step by step.
+# trebalinternational.com (Customer Portal) (Render static site)
+Local run:
+1) npm install
+2) copy .env.example to .env and set VITE_API_BASE_URL
+3) npm run dev
